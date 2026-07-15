@@ -88,7 +88,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sai292-cell&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sai292-cell&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
 </p>
 <h2 align="center">📈 Contribution Graph</h2>
 

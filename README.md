@@ -10,33 +10,42 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-Passionate Full Stack Developer • AI Enthusiast • Japanese Learner 🇯🇵
+💻 Full Stack Developer • 🤖 AI Enthusiast • 🇯🇵 Japanese Learner • 🌱 Lifelong Learner
 </p>
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-### 🚀 Currently
+### 🚀 Current Focus
 
-- 🌾 Building **FarmerOS**
-- 🤖 Learning **AI & Machine Learning**
-- 💻 Full Stack Development
+- 🌾 Developing **FarmerOS** – Smart Agriculture Platform
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- ⚛️ Building modern web apps with **React & Node.js**
 - 🇯🇵 Preparing for **JLPT N5**
-- 🌱 Exploring Open Source
+- 🌍 Contributing to **Open Source Projects**
 
 </td>
 
-<td width="50%">
+<td valign="top" width="50%">
 
-### 🎯 2026 Goals
+### 🎯 Goals for 2026
 
-- 🚀 Become an AI Engineer
-- 📚 Master React & Node.js
-- 🌐 Build impactful projects
-- 🏆 Win Hackathons
-- ⭐ Reach 500+ GitHub Contributions
+- 🚀 Become an **AI & Full Stack Engineer**
+- 🧠 Master **Data Structures & System Design**
+- 📱 Build impactful real-world applications
+- 🏆 Participate in national hackathons
+- ⭐ Reach **1000+ GitHub Contributions**
 
 </td>
 </tr>
 </table>
+
+---
+
+### ⚡ Fun Facts
+
+- 🌱 I enjoy learning new technologies every day.
+- 💡 I love solving real-world problems with code.
+- ☕ Coffee + Music + Coding = Productivity 🚀
+- 🎯 My dream is to build AI products that create a positive impact.

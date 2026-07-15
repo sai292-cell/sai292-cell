@@ -1,3 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Sai%20Gite&fontColor=ffffff&fontSize=55&animation=twinkling&color=0:00F5FF,100:6C63FF"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00FF66&center=true&width=900&lines=Building+FarmerOS+🌾;Helping+Farmers+with+AI;Precision+Agriculture;Smart+Farming;Full+Stack+Development"/>
+
 </p>

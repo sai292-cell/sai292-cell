@@ -7,24 +7,36 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="350" src="assets/coding.gif"/>
+<h2 align="center">👨‍💻 About Me</h2>
 
-## 👨‍💻 About Me
+<p align="center">
+Passionate Full Stack Developer • AI Enthusiast • Japanese Learner 🇯🇵
+</p>
 
-💻 **Full Stack Developer**
+<table>
+<tr>
+<td width="50%">
 
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
+### 🚀 Currently
 
-🌾 Currently building **FarmerOS** – Smart Agriculture Platform
+- 🌾 Building **FarmerOS**
+- 🤖 Learning **AI & Machine Learning**
+- 💻 Full Stack Development
+- 🇯🇵 Preparing for **JLPT N5**
+- 🌱 Exploring Open Source
 
-🧬 Interested in Data Science & AI Applications
+</td>
 
-🏆 Hackathon Participant
+<td width="50%">
 
-🇯🇵 Learning Japanese (JLPT)
+### 🎯 2026 Goals
 
-🌱 Always exploring new technologies
+- 🚀 Become an AI Engineer
+- 📚 Master React & Node.js
+- 🌐 Build impactful projects
+- 🏆 Win Hackathons
+- ⭐ Reach 500+ GitHub Contributions
 
-📍 Maharashtra, India
-
----
+</td>
+</tr>
+</table>

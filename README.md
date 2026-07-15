@@ -100,3 +100,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sai292-cell&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sai292-cell/sai292-cell/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
